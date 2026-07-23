@@ -1,0 +1,44 @@
+OSMAN AZABAGIC
+Software Engineer
+
+SUMMARY
+Software engineer with 3+ years of experience building and operating backend systems for eligibility, enrollment, and data-processing workflows. Experience includes distributed systems, ETL pipelines, event-driven architecture, REST APIs, production incident response, and release verification. Academic background in electrical engineering with a telecommunications focus.
+
+LOCATION
+Bosnia and Herzegovina
+
+PUBLIC LINKS
+GitHub: https://github.com/azabaga
+LinkedIn: https://www.linkedin.com/in/osman-azabagic
+Email: azabagiosman@gmail.com
+
+EXPERIENCE
+Backend Software Engineer
+Personify Health
+2023 - Present
+- Built and maintained backend services for large-scale eligibility, biometrics, and rewards data workflows.
+- Worked across Airflow-orchestrated batch ingestion and event-driven processing using SNS/SQS and Kafka.
+- Implemented consumers, validation logic, and downstream routing for production data pipelines.
+- Resolved production incidents, performed root-cause analysis, and delivered long-term reliability improvements.
+- Worked primarily with Java, Kotlin, Spring Boot, REST APIs, relational databases, and messaging systems.
+
+SELECTED PROJECTS
+LMU Race Ops
+- Web dashboard for motorsport event operations built with Vite, React, TypeScript, Fastify, and PostgreSQL.
+- Repository: https://github.com/azabaga/lmu-race-ops
+
+Event-Driven ETL Backend
+- ETL backend with CSV upload, validation, Kafka publication, and separate handling of valid and invalid records.
+- Public repository link: TODO
+
+EDUCATION
+Bachelor of Electrical Engineering, Telecommunications
+University of Tuzla, Faculty of Electrical Engineering
+Completed in 2026
+
+LANGUAGES
+Bosnian
+English
+
+NOTE
+This public CV was generated for the portfolio site and intentionally excludes phone number, street address, and other private details.

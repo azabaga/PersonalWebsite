@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>OA monogram</title>
+  <rect width="128" height="128" rx="18" fill="#f4f1e8"/>
+  <rect x="10" y="10" width="108" height="108" rx="12" fill="#f7b23b" stroke="#161616" stroke-width="8"/>
+  <path d="M40 87V41h18c16 0 27 8 27 23S74 87 58 87H40Zm16-14h2c8 0 13-3 13-9s-5-9-13-9h-2v18Z" fill="#161616"/>
+  <path d="M87 87 72 41h16l15 46H87Zm-22 0 15-46h16L81 87H65Z" fill="#161616"/>
+</svg>

@@ -1,0 +1,29 @@
+.link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  text-decoration: none;
+  border: var(--border-width) solid var(--border);
+  border-radius: 999px;
+  box-shadow: var(--shadow-sm);
+  font-weight: 700;
+  padding: 0.9rem 1.1rem;
+}
+
+.link:hover,
+.link:focus-visible {
+  transform: translate(4px, 4px);
+  box-shadow: none;
+}
+
+.primary {
+  background: var(--accent);
+}
+
+.secondary {
+  background: var(--surface);
+}
+
+.ghost {
+  background: transparent;
+}
